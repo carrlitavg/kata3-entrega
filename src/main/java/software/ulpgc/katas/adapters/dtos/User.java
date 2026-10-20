@@ -1,6 +1,7 @@
 package software.ulpgc.katas.adapters.dtos;
 
 public class User {
+    public String gender;
     public Name name;
     public Location location;
     public String email;
